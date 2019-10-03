@@ -75,3 +75,12 @@ body {
   background: #1abc9c;
   color: white !important;
 }
+
+.header {
+  margin-bottom: 1rem;
+}
+
+.container3 {
+  color: white;
+  text-align: center;
+}
