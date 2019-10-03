@@ -9,7 +9,7 @@ body {
 .month {
   padding: 70px 25px;
   width: 100%;
-  background: #1abc9c;
+  background-color: rgb(134, 134, 197);
   text-align: center;
 }
 
@@ -72,7 +72,7 @@ body {
 /* Highlight the "current" day */
 .days li .active {
   padding: 5px;
-  background: #1abc9c;
+  background-color: rgb(134, 134, 197);
   color: white !important;
 }
 
@@ -83,4 +83,6 @@ body {
 .container3 {
   color: white;
   text-align: center;
+  padding-left: 2rem;
+  padding-right: 2rem;
 }
