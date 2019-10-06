@@ -18,7 +18,7 @@ ul li {
   font-size: 18px;
   transition: 0.2s;
   list-style: none;
-  border-radius: 2rem;
+  /* border-radius: 2rem; */
 
   /* make the list items unselectable */
   -webkit-user-select: none;
@@ -100,5 +100,4 @@ input {
   padding: 10px;
   float: left;
   font-size: 16px;
-  border-radius: 2rem;
 }
